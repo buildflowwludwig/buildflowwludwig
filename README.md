@@ -8,7 +8,7 @@ IT Project Manager student (YH) at IT-Högskolan in Stockholm, with a background
 |---|---|
 | [**Tripworld**](https://github.com/buildflowwludwig/tripworld) | How the software behind a travel-logging web app is built: architecture, data model, security and delivery in phases |
 | [**Buildfloww**](https://github.com/buildflowwludwig/buildfloww) | My own web business: built and sold websites to local businesses, from sales and requirements to delivery |
-| [**Process Simulator**](https://github.com/buildflowwludwig/process-simulator) | The business thinking behind a tool that helps companies find gaps in their process flows |
+| [**Process Simulator**](https://github.com/buildflowwludwig/process-simulator) | Scenario-testing tool that checks whether process flows hold up when something unexpected happens, and turns the results into prioritised requirements · [live demo](https://buildflowwludwig.github.io/process-simulator/) |
 
 ## How I work
 - **Plan in phases** with clear goals, and approve each step before the next one starts
